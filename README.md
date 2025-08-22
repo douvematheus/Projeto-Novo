@@ -1,2 +1,4 @@
 # Projeto Novo
- teste de repositório versionado
+ Repositório versionado do curso de Git e Github
+
+ Repositório criado durante curso!
